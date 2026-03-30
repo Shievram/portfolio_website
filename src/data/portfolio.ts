@@ -91,7 +91,7 @@ export const projects: ProjectItem[] = [
     summary:
       'Designed and built an end-to-end ETL pipeline in SQL Server Integration Services using Visual Studio, covering staging, transformation, and data warehouse loading for fraud detection-related credit card payment datasets. The implementation included dimension loading for merchant category and merchant data, fact loading for transactions, merge joins to enforce foreign key relationships, and structured data flow tasks to maintain referential integrity for reporting and analytics.',
     tools: ['SSIS', 'SQL Server', 'ETL', 'Data Warehouse', 'Visual Studio'],
-    githubUrl: 'https://github.com/Shievram/portfolio/blob/main/ETL_Transactions.sln',
+    githubUrl: 'https://github.com/Shievram/portfolio/blob/main/Fraud%20detection/ETL_Transactions/ETL_Transactions.sln',
   },
   {
     title: 'HR Survey Analysis',
