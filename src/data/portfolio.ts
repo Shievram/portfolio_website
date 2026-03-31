@@ -111,7 +111,7 @@ export const projects: ProjectItem[] = [
     title: 'Traffic Indicators Analysis',
     summary:
       'Worked with traffic-related indicators to examine performance patterns, clean the dataset, and extract useful signals from public-style tabular data.',
-    tools: ['Python', 'Analysis', 'Data Quality', 'Jupyter'],
+    tools: ['Python', 'Data Quality', 'Jupyter'],
     githubUrl: 'https://github.com/Shievram/portfolio/blob/main/traffic_indicators.ipynb',
   },
 ];
